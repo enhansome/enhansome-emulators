@@ -1,0 +1,757 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Source Availability"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Platform Support"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Home Game Console Emulators"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Atari"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Atari 2600"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Atari 5200"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Atari 7800"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Atari Jaguar/Jaguar CD"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Commodore Amiga CD32"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "LaserDisc systems"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Sony"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Sony PlayStation 1"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Sony PlayStation 2"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Sony PlayStation 3"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Sony PlayStation 4"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Sony PlayStation 5"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Nintendo"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Nintendo Entertainment System/Famicom"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Super Nintendo Entertainment System/Super Famicom"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Nintendo 64"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Nintendo GameCube"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Nintendo Wii"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Nintendo Wii U"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Nintendo Switch"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Nintendo Switch 2"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Sega"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Sega Master System"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Sega Genesis/Megadrive and 32X/Sega CD"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Sega Saturn"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Sega Dreamcast"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Sega Dreamcast VMU"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Microsoft"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Microsoft Xbox"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Microsoft Xbox 360"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Microsoft Xbox One"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Microsoft Xbox Series"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "NEC PC Engine/TurboGrafx"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "SNK Neo Geo AES/MVS/Neo Geo CD"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Pong consoles"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Magnavox Odyssey 2"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Philips CD-i"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Panasonic"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Panasonic 3DO Interactive Multiplayer"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Panasonic 3DO M2"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Gemei A330"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "GCE Vectrex"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Apple/Bandai Pippin"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Mattel Intellivision"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Mattel HyperScan"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Coleco ColecoVision"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "VTech V.Smile"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Chip-8 and related system emulators/interpreters"
+    },
+    {
+      "description": "See multi-emulators section for \"Emma 02 emulator\"",
+      "items": [],
+      "title": "COSMAC VIP/RCA Studio II/Telmac 1800"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Handheld game console emulators"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Nintendo Handhelds"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Nintendo Game Boy/Game Boy Color"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Nintendo Game And Watch simulators"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Nintendo Virtual Boy"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Pokemon Mini"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Nintendo DS"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Nintendo 3DS"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Game Park GP32"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Atari Lynx"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Sega Game Gear"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Sony Handhelds"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Sony PlayStation Portable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Sony PocketStation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Sony PlayStation Vita"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Bandai WonderSwan/WonderSwan Color/SwanCrystal/WonderWitch"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "SNK Neo Geo Pocket/Color"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Watara SuperVision"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Phones/PDAs/other mobile devices, etc"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Apple iOS/iPod"
+    },
+    {
+      "description": "NoxPlayer: Affected by a supply-chain attack where attackers replaced legitimate update files with malware, leading to reconnaissance activities and potential infections with other malware.\nBlueStacks: Contained vulnerabilities that allowed remote code execution and unauthorized APK installations, affecting versions 4.80 and below.",
+      "items": [],
+      "title": "Google Android"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "N-Gage"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "BREW"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Mophun"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Java"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Palm devices"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Computer emulators"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Acorn"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Acorn Atom computers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Acorn BBC Micro computers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Acorn Electron computers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Acorn Archimedes computers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Amstrad CPC computers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "DOS emulators"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "x86 emulators"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "System/370, ESA/390, z/Architecture"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Apple computers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "NeXT computers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Oberon RISC machine"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "SIMH simulators"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Coleco computers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Commodore"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Commodore computers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Commodore Amiga computers/Commodore Amiga CD32"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Atari 400/800 and ST computers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Sinclair"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Sinclair ZX81 computers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Sinclair ZX Spectrum computers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "NEC"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "NEC 6000 computers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "NEC 8800 computers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "NEC 9800 computers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "MSX computers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Sharp X1 computers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Sharp X68000 computers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Virtualization solutions"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Interpreters"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Calculator emulators"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Texas Instruments"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "TI-81 series"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "TI-83 / TI-84 series"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "TI-85 and TI-86 series"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "TI-89 series"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "TI-90 series"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Misc TI calculator emulators"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "TI-Nspire"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Hewlett Packard"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Hewlett Packard monochrome calculators"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Hewlett Packard Prime calculators"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Hewlett Packard scientific and financial calculators"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Other HP calculator resources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Casio calculators"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Sharp calculators"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Elektronika calculators"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Other miscellaneous emulators and projects"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Adobe Flash emulators"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Game engine emulators/interpreters"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Nuon emulators"
+    },
+    {
+      "description": "Disclaimer: These tools are listed for preservation of games that are either no longer playable without them or incredibly difficult to get playable via their original downloads or media, these tools are **not** listed for enabling piracy or otherwise illegal means.",
+      "items": [],
+      "title": "Game client emulators"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Arcade machine emulators"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Pinball machine emulators"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Multi-system emulators"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Emulation platforms"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Emulation operating systems for computers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Emulation operating systems for single board computers (SBCs)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Emulation frontends and launchers for desktop"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Emulation frontends for mobile"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Game client frontends for mobile"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Emulation scripts for setting up multiple emulators"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Emulation services"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Game collection managers"
+    },
+    {
+      "description": "Contributions are always welcome and much appreciated!\nMostly what needs done now is checking for spelling mistakes, dead links, and incorrect information.\nThe recommended column should probably never be modified unless you have a VERY good reason to do so, or if I am mistaken about certain information.",
+      "items": [],
+      "title": "👨‍💻 Contributing"
+    },
+    {
+      "description": "Before attempting to get support, please first read through the entire FAQ.\nFor support, open an issue.",
+      "items": [],
+      "title": "💬 Support"
+    },
+    {
+      "description": "@DerekTurtleRoe",
+      "items": [],
+      "title": "🐢 Author"
+    },
+    {
+      "description": "I am not sponsored, affiliated, endorsed, paid, or otherwise financially (or by any other means) compensated by any group, person, company, or corporation for this list. The GitHub sponsors and other links above are purely if you want to support myself and is entirely optional.\nAll copyrights and trademarks are owned by their respective rights holders. I do not claim to be the license holder or owner of any copyrights, patents, or trademarks. I am not a lawyer and I don't want one. Please don't sue me, I have no money, etc etc etc.",
+      "items": [],
+      "title": "Disclaimer"
+    },
+    {
+      "description": "This work is licensed under Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit the Creative Commons website.",
+      "items": [],
+      "title": "📃 License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T06:10:57.413Z",
+    "original_repository": "DerekTurtleRoe/awesome-emulators",
+    "original_repository_sha": "b2325fdb7e7f3782de58e2532201d1a91f20fcd3",
+    "enhanced_repository": "enhansome/enhansome-emulators",
+    "enhanced_repository_description": null,
+    "title": "Awesome Emulators with stars"
+  }
+}
