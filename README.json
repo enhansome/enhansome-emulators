@@ -4608,7 +4608,7 @@
                 "archived": false,
                 "id": 126290485,
                 "language": "C++",
-                "last_commit": "2026-08-25T01:17:29Z",
+                "last_commit": "2026-08-25T06:11:54Z",
                 "owner": "EKA2L1",
                 "repo": "EKA2L1",
                 "stars": 2006
@@ -5221,7 +5221,7 @@
                 "last_commit": "2026-08-19T12:17:04Z",
                 "owner": "brunodev85",
                 "repo": "winlator",
-                "stars": 18772
+                "stars": 18773
               }
             },
             {
@@ -6118,7 +6118,7 @@
                 "archived": false,
                 "id": 184066505,
                 "language": "C++",
-                "last_commit": "2026-08-25T05:09:15Z",
+                "last_commit": "2026-08-25T06:06:38Z",
                 "owner": "finalburnneo",
                 "repo": "FBNeo",
                 "stars": 1479
@@ -6799,7 +6799,7 @@
                 "last_commit": "2026-08-21T03:23:05Z",
                 "owner": "TapiocaFox",
                 "repo": "Daijishou",
-                "stars": 1879
+                "stars": 1880
               }
             }
           ],
@@ -6998,7 +6998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:24:50.299Z",
+    "last_updated": "2026-08-25T06:15:14.499Z",
     "original_repository": "DerekTurtleRoe/awesome-emulators",
     "original_repository_id": 596042105,
     "original_repository_sha": "b2325fdb7e7f3782de58e2532201d1a91f20fcd3",
