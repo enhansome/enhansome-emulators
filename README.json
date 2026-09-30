@@ -378,11 +378,11 @@
                     "id": 207245092,
                     "language": "C++",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-29T08:15:10Z",
+                    "last_commit": "2026-09-29T14:44:45Z",
                     "open_issues": 77,
                     "owner": "stenzek",
                     "repo": "duckstation",
-                    "stars": 10762,
+                    "stars": 10769,
                     "topics": [
                       "appimage",
                       "emulator",
@@ -498,11 +498,11 @@
                     "id": 161444705,
                     "language": "C++",
                     "license": "GPL-2.0",
-                    "last_commit": "2026-09-28T22:03:31Z",
-                    "open_issues": 154,
+                    "last_commit": "2026-09-30T08:51:50Z",
+                    "open_issues": 114,
                     "owner": "grumpycoders",
                     "repo": "pcsx-redux",
-                    "stars": 1000,
+                    "stars": 1001,
                     "topics": [
                       "playstation-emulator"
                     ]
@@ -810,7 +810,7 @@
                     "open_issues": 261,
                     "owner": "Trixarian",
                     "repo": "NetherSX2-patch",
-                    "stars": 2644,
+                    "stars": 2647,
                     "topics": [
                       "aethersx2",
                       "android",
@@ -840,7 +840,7 @@
                     "open_issues": 105,
                     "owner": "Trixarian",
                     "repo": "NetherSX2-classic",
-                    "stars": 1183,
+                    "stars": 1185,
                     "topics": [
                       "aethersx2",
                       "android",
@@ -1040,7 +1040,7 @@
                     "open_issues": 48,
                     "owner": "InoriRus",
                     "repo": "Kyty",
-                    "stars": 3091,
+                    "stars": 3095,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:05:23.784Z"
@@ -1115,7 +1115,7 @@
                     "id": 205221469,
                     "language": "C++",
                     "license": "GPL-2.0",
-                    "last_commit": "2026-09-28T15:12:36Z",
+                    "last_commit": "2026-09-29T17:57:41Z",
                     "open_issues": 3,
                     "owner": "Force67",
                     "repo": "prosperity",
@@ -1215,7 +1215,7 @@
                     "open_issues": 10,
                     "owner": "RPCSX",
                     "repo": "rpcsx",
-                    "stars": 1961,
+                    "stars": 1962,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:05:23.784Z"
@@ -1232,11 +1232,11 @@
                     "id": 556675672,
                     "language": "C++",
                     "license": "GPL-2.0",
-                    "last_commit": "2026-09-29T06:19:21Z",
+                    "last_commit": "2026-09-30T10:24:41Z",
                     "open_issues": 227,
                     "owner": "shadps4-emu",
                     "repo": "shadPS4",
-                    "stars": 33021,
+                    "stars": 33031,
                     "topics": [
                       "cpp",
                       "cpp23",
@@ -1270,7 +1270,7 @@
                     "open_issues": 6,
                     "owner": "AzaharPlus",
                     "repo": "shadPS4Plus",
-                    "stars": 596,
+                    "stars": 597,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:05:23.784Z"
@@ -1319,7 +1319,7 @@
                     "open_issues": 48,
                     "owner": "InoriRus",
                     "repo": "Kyty",
-                    "stars": 3091,
+                    "stars": 3095,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:05:23.784Z"
@@ -1340,7 +1340,7 @@
                     "open_issues": 10,
                     "owner": "RPCSX",
                     "repo": "rpcsx",
-                    "stars": 1961,
+                    "stars": 1962,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:05:23.784Z"
@@ -1589,7 +1589,7 @@
                     "open_issues": 15,
                     "owner": "0ldsk00l",
                     "repo": "nestopia",
-                    "stars": 937,
+                    "stars": 938,
                     "topics": [
                       "emulator",
                       "nestopia",
@@ -2085,7 +2085,7 @@
                     "open_issues": 223,
                     "owner": "snes9xgit",
                     "repo": "snes9x",
-                    "stars": 3346,
+                    "stars": 3347,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:05:23.784Z"
@@ -2459,7 +2459,7 @@
                     "open_issues": 11,
                     "owner": "gopher64",
                     "repo": "gopher64",
-                    "stars": 1278,
+                    "stars": 1279,
                     "topics": [
                       "emulation",
                       "emulator",
@@ -2532,7 +2532,7 @@
                     "open_issues": 79,
                     "owner": "mupen64plus-ae",
                     "repo": "mupen64plus-ae",
-                    "stars": 496,
+                    "stars": 497,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:05:23.784Z"
@@ -2668,7 +2668,7 @@
                     "open_issues": 1,
                     "owner": "extremscorner",
                     "repo": "not64",
-                    "stars": 370,
+                    "stars": 371,
                     "topics": [
                       "emulator",
                       "gamecube",
@@ -2805,7 +2805,7 @@
                     "open_issues": 138,
                     "owner": "Rosalie241",
                     "repo": "RMG",
-                    "stars": 1115,
+                    "stars": 1116,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:05:23.784Z"
@@ -3225,10 +3225,10 @@
                     "language": "Rust",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-07T16:37:56Z",
-                    "open_issues": 1,
+                    "open_issues": 0,
                     "owner": "0xNikilite",
                     "repo": "oboromi",
-                    "stars": 1288,
+                    "stars": 1290,
                     "topics": [
                       "emulator",
                       "proof-of-concept",
@@ -3347,7 +3347,7 @@
                     "id": 674814091,
                     "language": "Rust",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-12T21:46:05Z",
+                    "last_commit": "2026-09-30T02:40:54Z",
                     "open_issues": 136,
                     "owner": "jsgroth",
                     "repo": "jgenesis",
@@ -3542,11 +3542,11 @@
                     "id": 131286494,
                     "language": "C++",
                     "license": "GPL-2.0",
-                    "last_commit": "2026-09-28T11:49:07Z",
+                    "last_commit": "2026-09-29T20:08:44Z",
                     "open_issues": 310,
                     "owner": "flyinghead",
                     "repo": "flycast",
-                    "stars": 2562,
+                    "stars": 2565,
                     "topics": [
                       "emulation",
                       "emulator",
@@ -4060,7 +4060,7 @@
                 "open_issues": 118,
                 "owner": "cebix",
                 "repo": "macemu",
-                "stars": 1627,
+                "stars": 1628,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:23.784Z"
@@ -4081,7 +4081,7 @@
                 "open_issues": 4,
                 "owner": "kanjitalk755",
                 "repo": "macemu",
-                "stars": 499,
+                "stars": 500,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:23.784Z"
@@ -4130,7 +4130,7 @@
                 "open_issues": 18,
                 "owner": "jenergy",
                 "repo": "jzIntvImGui",
-                "stars": 30,
+                "stars": 31,
                 "topics": [
                   "android",
                   "dear-imgui",
@@ -4899,11 +4899,11 @@
                     "id": 78204995,
                     "language": "Java",
                     "license": "MIT",
-                    "last_commit": "2026-09-23T12:55:23Z",
-                    "open_issues": 0,
+                    "last_commit": "2026-09-30T10:28:37Z",
+                    "open_issues": 1,
                     "owner": "trekawek",
                     "repo": "coffee-gb",
-                    "stars": 1169,
+                    "stars": 1170,
                     "topics": [
                       "emulator",
                       "gameboy",
@@ -5070,7 +5070,7 @@
                     "id": 5116054,
                     "language": "C++",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-29T10:42:20Z",
+                    "last_commit": "2026-09-29T11:00:45Z",
                     "open_issues": 3,
                     "owner": "drhelius",
                     "repo": "Gearboy",
@@ -5107,7 +5107,7 @@
                     "id": 5116054,
                     "language": "C++",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-29T10:42:20Z",
+                    "last_commit": "2026-09-29T11:00:45Z",
                     "open_issues": 3,
                     "owner": "drhelius",
                     "repo": "Gearboy",
@@ -5355,7 +5355,7 @@
                     "open_issues": 22,
                     "owner": "Baekalfen",
                     "repo": "PyBoy",
-                    "stars": 5210,
+                    "stars": 5211,
                     "topics": [
                       "cython",
                       "emulator",
@@ -5380,7 +5380,7 @@
                     "id": 615871261,
                     "language": "C++",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-08T21:45:11Z",
+                    "last_commit": "2026-09-30T09:55:35Z",
                     "open_issues": 0,
                     "owner": "Callum5042",
                     "repo": "RetroGBm",
@@ -5405,7 +5405,7 @@
                     "open_issues": 168,
                     "owner": "LIJI32",
                     "repo": "SameBoy",
-                    "stars": 2206,
+                    "stars": 2207,
                     "topics": [
                       "emulator",
                       "gameboy",
@@ -5534,7 +5534,7 @@
                     "open_issues": 71,
                     "owner": "nba-emu",
                     "repo": "NanoBoyAdvance",
-                    "stars": 1310,
+                    "stars": 1309,
                     "topics": [
                       "cycle-accurate",
                       "emulator",
@@ -5562,7 +5562,7 @@
                     "open_issues": 260,
                     "owner": "skylersaleh",
                     "repo": "SkyEmu",
-                    "stars": 1273,
+                    "stars": 1274,
                     "topics": [
                       "emulation",
                       "emulator",
@@ -5588,11 +5588,11 @@
                     "id": 37228563,
                     "language": "C++",
                     "license": "GPL-2.0",
-                    "last_commit": "2026-09-29T00:00:36Z",
-                    "open_issues": 215,
+                    "last_commit": "2026-09-30T06:18:27Z",
+                    "open_issues": 214,
                     "owner": "visualboyadvance-m",
                     "repo": "visualboyadvance-m",
-                    "stars": 3921,
+                    "stars": 3922,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:05:23.784Z"
@@ -6038,7 +6038,7 @@
                     "open_issues": 82,
                     "owner": "SapphireRhodonite",
                     "repo": "WatermelonDS",
-                    "stars": 526,
+                    "stars": 527,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:05:23.784Z"
@@ -6080,7 +6080,7 @@
                     "open_issues": 100,
                     "owner": "Hydr8gon",
                     "repo": "NooDS",
-                    "stars": 1158,
+                    "stars": 1160,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:05:23.784Z"
@@ -6168,10 +6168,10 @@
                     "language": "C++",
                     "license": "GPL-2.0",
                     "last_commit": "2026-09-28T16:28:41Z",
-                    "open_issues": 396,
+                    "open_issues": 401,
                     "owner": "azahar-emu",
                     "repo": "azahar",
-                    "stars": 8236,
+                    "stars": 8240,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:05:23.784Z"
@@ -6234,7 +6234,7 @@
                     "open_issues": 550,
                     "owner": "weihuoya",
                     "repo": "citra",
-                    "stars": 2754,
+                    "stars": 2755,
                     "topics": [
                       "3ds",
                       "android",
@@ -6480,7 +6480,7 @@
                     "id": 8454923,
                     "language": "C++",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-29T10:42:23Z",
+                    "last_commit": "2026-09-29T11:00:59Z",
                     "open_issues": 5,
                     "owner": "drhelius",
                     "repo": "Gearsystem",
@@ -6715,7 +6715,7 @@
                 "open_issues": 15,
                 "owner": "FluBBaOfWard",
                 "repo": "NitroSwan",
-                "stars": 75,
+                "stars": 76,
                 "topics": [
                   "bandai-wonderswan",
                   "emulator",
@@ -6968,11 +6968,11 @@
                 "id": 573107980,
                 "language": "Rust",
                 "license": "MPL-2.0",
-                "last_commit": "2026-09-26T04:30:47Z",
-                "open_issues": 99,
+                "last_commit": "2026-09-29T21:34:09Z",
+                "open_issues": 98,
                 "owner": "touchHLE",
                 "repo": "touchHLE",
-                "stars": 3942,
+                "stars": 3943,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:23.784Z"
@@ -6993,7 +6993,7 @@
                 "open_issues": 420,
                 "owner": "zhkl0228",
                 "repo": "unidbg",
-                "stars": 5231,
+                "stars": 5235,
                 "topics": [
                   "android",
                   "capstone",
@@ -7059,7 +7059,7 @@
                 "open_issues": 179,
                 "owner": "microsoft",
                 "repo": "WSA",
-                "stars": 1856,
+                "stars": 1857,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:23.784Z"
@@ -7083,8 +7083,8 @@
                 "id": 126290485,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-29T05:39:11Z",
-                "open_issues": 114,
+                "last_commit": "2026-09-30T01:58:52Z",
+                "open_issues": 112,
                 "owner": "EKA2L1",
                 "repo": "EKA2L1",
                 "stars": 2025,
@@ -7244,8 +7244,8 @@
                 "id": 855820693,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-29T03:19:39Z",
-                "open_issues": 15,
+                "last_commit": "2026-09-30T02:28:36Z",
+                "open_issues": 16,
                 "owner": "TASEmulators",
                 "repo": "freej2me-plus",
                 "stars": 209,
@@ -7269,7 +7269,7 @@
                 "open_issues": 222,
                 "owner": "nikita36078",
                 "repo": "J2ME-Loader",
-                "stars": 2673,
+                "stars": 2675,
                 "topics": [
                   "android",
                   "emulator",
@@ -7316,7 +7316,7 @@
                 "open_issues": 50,
                 "owner": "woesss",
                 "repo": "JL-Mod",
-                "stars": 315,
+                "stars": 316,
                 "topics": [
                   "android",
                   "j2me",
@@ -7641,10 +7641,10 @@
                 "language": "C",
                 "license": "GPL-2.0",
                 "last_commit": "2026-09-28T15:24:31Z",
-                "open_issues": 2048,
+                "open_issues": 2049,
                 "owner": "joncampbell123",
                 "repo": "dosbox-x",
-                "stars": 3748,
+                "stars": 3749,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:23.784Z"
@@ -7698,11 +7698,11 @@
                 "id": 61964127,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-29T02:28:59Z",
-                "open_issues": 17,
+                "last_commit": "2026-09-30T08:59:36Z",
+                "open_issues": 18,
                 "owner": "86Box",
                 "repo": "86Box",
-                "stars": 4851,
+                "stars": 4856,
                 "topics": [
                   "emulation",
                   "emulator",
@@ -7725,7 +7725,7 @@
                 "id": 528991306,
                 "language": "C++",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-09-27T13:50:18Z",
+                "last_commit": "2026-09-30T07:58:46Z",
                 "open_issues": 71,
                 "owner": "bochs-emu",
                 "repo": "Bochs",
@@ -7800,11 +7800,11 @@
                 "id": 317493442,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-29T07:12:30Z",
-                "open_issues": 188,
+                "last_commit": "2026-09-30T10:12:45Z",
+                "open_issues": 192,
                 "owner": "ptitSeb",
                 "repo": "box64",
-                "stars": 5659,
+                "stars": 5658,
                 "topics": [
                   "arm64",
                   "box64",
@@ -7876,10 +7876,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-09-28T14:12:17Z",
-                "open_issues": 248,
+                "open_issues": 249,
                 "owner": "FEX-Emu",
                 "repo": "FEX",
-                "stars": 8182,
+                "stars": 8196,
                 "topics": [
                   "arm64",
                   "cpp",
@@ -7987,7 +7987,7 @@
                 "id": 123052729,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-29T02:56:26Z",
+                "last_commit": "2026-09-30T00:04:58Z",
                 "open_issues": 0,
                 "owner": "PCBox",
                 "repo": "PCBox",
@@ -8033,7 +8033,7 @@
                 "open_issues": 404,
                 "owner": "brunodev85",
                 "repo": "winlator",
-                "stars": 19231,
+                "stars": 19242,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:23.784Z"
@@ -8079,7 +8079,7 @@
                 "open_issues": 2,
                 "owner": "vgrichina",
                 "repo": "wine-assembly",
-                "stars": 98,
+                "stars": 102,
                 "topics": [
                   "browser-games",
                   "directx",
@@ -8124,7 +8124,7 @@
                 "open_issues": 374,
                 "owner": "AppleWin",
                 "repo": "AppleWin",
-                "stars": 929,
+                "stars": 930,
                 "topics": [
                   "6502",
                   "appleii",
@@ -8149,7 +8149,7 @@
                 "open_issues": 4,
                 "owner": "kanjitalk755",
                 "repo": "macemu",
-                "stars": 499,
+                "stars": 500,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:23.784Z"
@@ -8166,11 +8166,11 @@
                 "id": 194771696,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-29T04:44:46Z",
+                "last_commit": "2026-09-29T12:28:00Z",
                 "open_issues": 51,
                 "owner": "dingusdev",
                 "repo": "dingusppc",
-                "stars": 402,
+                "stars": 403,
                 "topics": [
                   "emulation",
                   "emulator",
@@ -8314,7 +8314,7 @@
                 "open_issues": 4,
                 "owner": "kanjitalk755",
                 "repo": "macemu",
-                "stars": 499,
+                "stars": 500,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:23.784Z"
@@ -8463,7 +8463,7 @@
                     "open_issues": 18,
                     "owner": "pedgarcia",
                     "repo": "fujisan",
-                    "stars": 63,
+                    "stars": 64,
                     "topics": [
                       "atari",
                       "atari800",
@@ -8574,7 +8574,7 @@
                     "id": 32104835,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-28T18:06:57Z",
+                    "last_commit": "2026-09-30T08:01:48Z",
                     "open_issues": 17,
                     "owner": "raydac",
                     "repo": "zxpoly",
@@ -8674,7 +8674,7 @@
                 "language": "C++",
                 "license": null,
                 "last_commit": "2026-09-27T21:14:29Z",
-                "open_issues": 452,
+                "open_issues": 453,
                 "owner": "openMSX",
                 "repo": "openMSX",
                 "stars": 552,
@@ -8800,7 +8800,7 @@
                     "open_issues": 14,
                     "owner": "CE-Programming",
                     "repo": "CEmu",
-                    "stars": 1314,
+                    "stars": 1315,
                     "topics": [
                       "calculator",
                       "emulation",
@@ -9082,11 +9082,11 @@
                 "id": 183483988,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-29T03:31:21Z",
-                "open_issues": 5650,
+                "last_commit": "2026-09-30T06:05:33Z",
+                "open_issues": 5649,
                 "owner": "ruffle-rs",
                 "repo": "ruffle",
-                "stars": 18594,
+                "stars": 18597,
                 "topics": [
                   "emulator",
                   "flash",
@@ -9368,11 +9368,11 @@
                 "id": 184066505,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-28T14:37:02Z",
-                "open_issues": 78,
+                "last_commit": "2026-09-29T18:49:00Z",
+                "open_issues": 86,
                 "owner": "finalburnneo",
                 "repo": "FBNeo",
-                "stars": 1524,
+                "stars": 1526,
                 "topics": [
                   "arcade",
                   "colecovision",
@@ -9431,11 +9431,11 @@
                 "id": 65593704,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-27T15:56:17Z",
+                "last_commit": "2026-09-29T11:01:26Z",
                 "open_issues": 101,
                 "owner": "vpinball",
                 "repo": "pinmame",
-                "stars": 305,
+                "stars": 306,
                 "topics": [
                   "emulation",
                   "emulator",
@@ -9457,11 +9457,11 @@
                 "id": 65593704,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-27T15:56:17Z",
+                "last_commit": "2026-09-29T11:01:26Z",
                 "open_issues": 101,
                 "owner": "vpinball",
                 "repo": "pinmame",
-                "stars": 305,
+                "stars": 306,
                 "topics": [
                   "emulation",
                   "emulator",
@@ -9483,11 +9483,11 @@
                 "id": 65589448,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-29T10:56:28Z",
-                "open_issues": 411,
+                "last_commit": "2026-09-30T09:22:45Z",
+                "open_issues": 410,
                 "owner": "vpinball",
                 "repo": "vpinball",
-                "stars": 1018,
+                "stars": 1021,
                 "topics": [
                   "pinball",
                   "pinball-simulation",
@@ -9543,7 +9543,7 @@
                 "open_issues": 429,
                 "owner": "OpenEmu",
                 "repo": "OpenEmu",
-                "stars": 17803,
+                "stars": 17802,
                 "topics": [
                   "emulation",
                   "emulator",
@@ -9567,11 +9567,11 @@
                 "id": 37860317,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-28T11:04:57Z",
+                "last_commit": "2026-09-29T23:27:38Z",
                 "open_issues": 810,
                 "owner": "TASEmulators",
                 "repo": "BizHawk",
-                "stars": 2768,
+                "stars": 2770,
                 "topics": [
                   "c-plus-plus",
                   "c-sharp",
@@ -9670,8 +9670,8 @@
                 "id": 39225788,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-16T19:16:26Z",
-                "open_issues": 96,
+                "last_commit": "2026-09-29T17:33:14Z",
+                "open_issues": 95,
                 "owner": "TomHarte",
                 "repo": "CLK",
                 "stars": 1144,
@@ -9758,7 +9758,7 @@
                 "open_issues": 75,
                 "owner": "ocornut",
                 "repo": "meka",
-                "stars": 356,
+                "stars": 357,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:23.784Z"
@@ -9775,7 +9775,7 @@
                 "id": 466229623,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-09-28T22:49:22Z",
+                "last_commit": "2026-09-29T22:01:00Z",
                 "open_issues": 0,
                 "owner": "chernandezba",
                 "repo": "zesarux",
@@ -9863,11 +9863,11 @@
                 "id": 12416862,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-29T10:29:03Z",
-                "open_issues": 243,
+                "last_commit": "2026-09-29T12:38:38Z",
+                "open_issues": 242,
                 "owner": "Provenance-Emu",
                 "repo": "Provenance",
-                "stars": 6382,
+                "stars": 6383,
                 "topics": [
                   "atari",
                   "catalyst",
@@ -9906,10 +9906,10 @@
                 "language": "Swift",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-18T17:57:27Z",
-                "open_issues": 16,
+                "open_issues": 17,
                 "owner": "Manic-EMU",
                 "repo": "ManicEMU",
-                "stars": 545,
+                "stars": 547,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:23.784Z"
@@ -9927,10 +9927,10 @@
                 "language": "Swift",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-18T17:57:27Z",
-                "open_issues": 16,
+                "open_issues": 17,
                 "owner": "Manic-EMU",
                 "repo": "ManicEMU",
-                "stars": 545,
+                "stars": 547,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:23.784Z"
@@ -10135,7 +10135,7 @@
                 "language": "C++",
                 "license": "GPL-2.0",
                 "last_commit": "2026-09-29T10:13:25Z",
-                "open_issues": 103,
+                "open_issues": 104,
                 "owner": "noword",
                 "repo": "Emu4VitaPlus",
                 "stars": 258,
@@ -10182,7 +10182,7 @@
                 "id": 719137906,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-29T01:52:24Z",
+                "last_commit": "2026-09-29T21:59:20Z",
                 "open_issues": 12,
                 "owner": "firelight-emulator",
                 "repo": "firelight",
@@ -10455,11 +10455,11 @@
                 "id": 788715163,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-29T02:19:28Z",
+                "last_commit": "2026-09-30T02:22:47Z",
                 "open_issues": 73,
                 "owner": "JMBeresford",
                 "repo": "retrom",
-                "stars": 2076,
+                "stars": 2077,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:23.784Z"
@@ -10565,7 +10565,7 @@
                 "open_issues": 152,
                 "owner": "TapiocaFox",
                 "repo": "Daijishou",
-                "stars": 1923,
+                "stars": 1925,
                 "topics": [
                   "android",
                   "daijishou",
@@ -10655,11 +10655,11 @@
                 "id": 510874499,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-29T04:39:33Z",
-                "open_issues": 30,
+                "last_commit": "2026-09-30T05:21:22Z",
+                "open_issues": 31,
                 "owner": "emmercm",
                 "repo": "igir",
-                "stars": 926,
+                "stars": 928,
                 "topics": [
                   "1g1r",
                   "analogue-pocket",
@@ -10721,7 +10721,7 @@
                 "id": 126533561,
                 "language": "Java",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-26T21:07:41Z",
+                "last_commit": "2026-09-29T20:42:38Z",
                 "open_issues": 3,
                 "owner": "optyfr-org",
                 "repo": "JRomManager",
@@ -10796,7 +10796,7 @@
                 "id": 122615357,
                 "language": "C#",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-27T22:06:00Z",
+                "last_commit": "2026-09-29T21:35:50Z",
                 "open_issues": 8,
                 "owner": "cosmo0",
                 "repo": "arcade-manager",
@@ -10830,11 +10830,11 @@
                 "id": 89850983,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-29T04:13:21Z",
+                "last_commit": "2026-09-30T03:58:11Z",
                 "open_issues": 71,
                 "owner": "SteamGridDB",
                 "repo": "steam-rom-manager",
-                "stars": 2573,
+                "stars": 2575,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:23.784Z"
@@ -10902,7 +10902,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T10:59:42.495Z",
+    "last_updated": "2026-09-30T10:50:12.183Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of emulators!",
@@ -10914,7 +10914,7 @@
       "open_issues": 10,
       "owner": "DerekTurtleRoe",
       "repo": "awesome-emulators",
-      "stars": 678,
+      "stars": 679,
       "topics": [
         "awesome",
         "awesome-list",
